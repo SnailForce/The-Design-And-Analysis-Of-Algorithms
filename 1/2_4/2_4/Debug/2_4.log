@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2_4\2_4\Source.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
+F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2_4\2_4\Source.cpp(18,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  2_4.vcxproj -> F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2_4\Debug\2_4.exe

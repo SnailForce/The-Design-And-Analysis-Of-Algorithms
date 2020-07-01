@@ -1,0 +1,5 @@
+﻿  grid.cpp
+F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2\Project1\Project1\grid.cpp(72,23): warning C4018: '<': signed/unsigned mismatch
+F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2\Project1\Project1\grid.cpp(74,24): warning C4018: '<': signed/unsigned mismatch
+F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2\Project1\Project1\grid.cpp(86,10): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2\Project1\Debug\Project1.exe

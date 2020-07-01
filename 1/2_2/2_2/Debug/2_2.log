@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2_2\2_2\Source.cpp(17,23): warning C4018: '<=': signed/unsigned mismatch
+F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2_2\2_2\Source.cpp(55,23): warning C4018: '<=': signed/unsigned mismatch
+  2_2.vcxproj -> F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2_2\Debug\2_2.exe

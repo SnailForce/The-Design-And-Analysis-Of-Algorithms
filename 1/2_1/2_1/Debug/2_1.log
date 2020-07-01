@@ -1,0 +1,8 @@
+﻿  源.cpp
+F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2_1\2_1\源.cpp(37,25): warning C4018: '<=': signed/unsigned mismatch
+F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2_1\2_1\源.cpp(41,29): warning C4018: '<=': signed/unsigned mismatch
+F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2_1\2_1\源.cpp(45,29): warning C4018: '>=': signed/unsigned mismatch
+F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2_1\2_1\源.cpp(49,29): warning C4018: '>=': signed/unsigned mismatch
+F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2_1\2_1\源.cpp(60,23): warning C4018: '<=': signed/unsigned mismatch
+F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2_1\2_1\源.cpp(62,24): warning C4018: '<=': signed/unsigned mismatch
+  2_1.vcxproj -> F:\PostGraduate\Code\The Design And Analysis Of Algorithms\2_1\Debug\2_1.exe
